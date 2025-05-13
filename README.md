@@ -10,7 +10,7 @@ Dans ce point de contrôle, nous allons utiliser ce que nous avons appris préc�
     - Ajouter une tâche
     - Liste des tâches
     - Tâche
-- Chaque tâche doit avoir les attributs suivants : I d, description, isDone
+- Chaque tâche doit avoir les attributs suivants : Id, description, isDone
 - L'utilisateur doit être :
     - Possibilité d'ajouter une nouvelle tâche
     - Filtrer les tâches par (effectué/non)
